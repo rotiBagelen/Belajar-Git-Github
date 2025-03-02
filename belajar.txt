@@ -3,4 +3,3 @@ Belajar Git dan Github:
 - belajar git
 
 Progress:
-- sedang belajar github dulu
