@@ -1,3 +1,6 @@
 Belajar Git dan Github:
 - belajar github
 - belajar git
+
+Progress:
+- sedang belajar github dulu
