@@ -1,6 +1,1 @@
-Belajar Git dan Github:
-- belajar github
-- belajar git
 
-Progress:
-- progreess 1
